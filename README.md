@@ -5,7 +5,7 @@ My personal dwm build
 
 ## Colorscheme 
 gruvbox, inspired from the st patch theme linked below: 
-![gruvbox](https://st.suckless.org/patches/gruvbox/st-gruvbox-dark-0.8.5.diff)
+[gruvbox](https://st.suckless.org/patches/gruvbox/st-gruvbox-dark-0.8.5.diff)
 
 ## Applied Patches
 - alwayscenter
